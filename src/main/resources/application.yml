@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: simpleCrudUsingPreaparedStatement
+netty:
+  default:
+    allocator:
+      max-order: 3
+#datasources:
+#  default:
+#    url: jdbc:sqlserver://localhost:1433;databaseName=Devil
+#    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+#    username: Anemoi
+#    password: Anemoi@123
